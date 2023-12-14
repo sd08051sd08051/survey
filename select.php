@@ -56,15 +56,21 @@ if ($status==false) {
       <div class="navbar-header">
       <a class="navbar-brand" href="index.php">データ登録</a>
       </div>
-    </div>
+
   </nav>
+    <div>
+  <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsMhqKPrubru6txZDJOyhf2sSBQAkKnCadlj2JvkD1_e3ASA3w-qiN1dcWviZw48l4h-mHXxMiWGbr/pubchart?oid=1565244691&amp;format=interactive"></iframe>
+  <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsMhqKPrubru6txZDJOyhf2sSBQAkKnCadlj2JvkD1_e3ASA3w-qiN1dcWviZw48l4h-mHXxMiWGbr/pubchart?oid=406247588&amp;format=interactive"></iframe>
+  </div>
 </header>
 <!-- Head[End] -->
 
 <!-- Main[Start] -->
 <div>
     <div class="container jumbotron"><?= $view ?></div>
-</div>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsMhqKPrubru6txZDJOyhf2sSBQAkKnCadlj2JvkD1_e3ASA3w-qiN1dcWviZw48l4h-mHXxMiWGbr/pubchart?oid=561435017&amp;format=interactive"></iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsMhqKPrubru6txZDJOyhf2sSBQAkKnCadlj2JvkD1_e3ASA3w-qiN1dcWviZw48l4h-mHXxMiWGbr/pubchart?oid=1606187042&amp;format=interactive"></iframe>
+    </div>
 <!-- Main[End] -->
 
 </body>
