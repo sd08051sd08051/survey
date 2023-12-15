@@ -52,6 +52,8 @@
                 <label>年齢<input type="text" name="Age"></label><br>
                 <label>待ち時間（分）<input type="text" name="Waittime"></label><br>
                 <label>支払える価格<input type="text" name="Price"></label><br>
+                
+                <legend>行列に並べる店の条件</legend>
                 <label>理由1
                     <select name="Reason1">
                         <option value="味が美味しい（過去来店）">味が美味しい（過去来店）</option>
